@@ -2,3 +2,6 @@
 	path = themes/loveIt
 	url = https://github.com/dillonzq/LoveIt.git
  
+[submodule "themes/showcase"]
+	path = themes/showcase
+	url = https://github.com/apvarun/showcase-hugo-theme.git
