@@ -12,8 +12,6 @@ theme = 'm10c'
 [[params.social]]
   icon = "github"
   name = "My Github"
-  url = "https://www.bilibili.com/video/BV1Kx411S7MT/?spm_id_from=333.337.search-card.all.click&vd_source=9e7c4100604b6d3140568c6d885c0211"
-  
-  
+  url = "https://www.bilibili.com/"
   
   
