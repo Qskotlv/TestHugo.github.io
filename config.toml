@@ -1,6 +1,6 @@
 baseURL = "https://qskotlv.github.io/TestHugo.github.io/"
 languageCode = "en-us"
-title = "Showcase Theme"
+title = "my site"
 Paginate = 1000
 googleAnalytics = ""
 theme = "showcase"
