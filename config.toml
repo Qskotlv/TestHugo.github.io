@@ -1,6 +1,19 @@
 baseURL = 'https://qskotlv.github.io/TestHugo.github.io/'
 languageCode = 'en-us'
-title = 'hello wefnowelgn'
-theme = 'loveIt'
+title = 'asdagn'
+theme = 'm10c'
 
 
+[[menu.main]]
+  identifier = "tags"
+  name = "jack"
+  url = "/h/"
+  
+[[params.social]]
+  icon = "github"
+  name = "My Github"
+  url = "https://www.bilibili.com/video/BV1Kx411S7MT/?spm_id_from=333.337.search-card.all.click&vd_source=9e7c4100604b6d3140568c6d885c0211"
+  
+  
+  
+  
