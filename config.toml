@@ -16,7 +16,7 @@ pluralizelisttitles = false
   hideAutoMenu = false
   
   # Pagination options
-  paginate = 6
+  paginate = 10
   multipage = true
 
   # Dark mode
