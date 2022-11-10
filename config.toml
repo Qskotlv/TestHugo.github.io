@@ -1,6 +1,6 @@
 baseURL = "https://qskotlv.github.io/TestHugo.github.io/"
-languageCode = "en-us"
-title = "Showcase Theme"
+languageCode = "zh-cn"
+title = "Supreme Graphics"
 Paginate = 1000
 googleAnalytics = ""
 theme = "showcase"
@@ -9,6 +9,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 # this setting should always be set to false, otherwise it will break the section navigation bar
 pluralizelisttitles = false
 
+
 [params]
   author = "showcase"
   description = "Minimal, one page, theme for showcasing your work"
@@ -16,7 +17,7 @@ pluralizelisttitles = false
   hideAutoMenu = false
   
   # Pagination options
-  paginate = 10
+  paginate = 16
   multipage = true
 
   # Dark mode

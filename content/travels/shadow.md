@@ -1,7 +1,9 @@
 ---
-title: Global Illumination
+title: Shadow
 date:  2021-12-25
 subtitle: 2022
 link: https://example.com/
-image: ./gi.png
+image: ./shadow.jpg
+description: >
+   实时阴影.
 ---
